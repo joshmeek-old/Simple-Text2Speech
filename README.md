@@ -1,7 +1,7 @@
 Simple Text2Speech
 ==================
 
-An extremely simple Text2Speech program using Java and FreeTTS
+A simple Text2Speech program using Java and FreeTTS
 
 -----
 
